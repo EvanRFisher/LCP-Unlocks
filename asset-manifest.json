@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/LCP-Unlocks/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/LCP-Unlocks/static/js/main.9f160037.chunk.js",
-    "main.js.map": "/LCP-Unlocks/static/js/main.9f160037.chunk.js.map",
-    "runtime-main.js": "/LCP-Unlocks/static/js/runtime-main.88eadfd8.js",
-    "runtime-main.js.map": "/LCP-Unlocks/static/js/runtime-main.88eadfd8.js.map",
-    "static/js/2.07152b8f.chunk.js": "/LCP-Unlocks/static/js/2.07152b8f.chunk.js",
-    "static/js/2.07152b8f.chunk.js.map": "/LCP-Unlocks/static/js/2.07152b8f.chunk.js.map",
-    "static/js/3.e6252d18.chunk.js": "/LCP-Unlocks/static/js/3.e6252d18.chunk.js",
-    "static/js/3.e6252d18.chunk.js.map": "/LCP-Unlocks/static/js/3.e6252d18.chunk.js.map",
+    "main.css": "/LCP-Unlocks/static/css/main.27109282.chunk.css",
+    "main.js": "/LCP-Unlocks/static/js/main.7ef95083.chunk.js",
+    "main.js.map": "/LCP-Unlocks/static/js/main.7ef95083.chunk.js.map",
+    "runtime-main.js": "/LCP-Unlocks/static/js/runtime-main.ce7ef8bb.js",
+    "runtime-main.js.map": "/LCP-Unlocks/static/js/runtime-main.ce7ef8bb.js.map",
+    "static/js/2.bf99b85c.chunk.js": "/LCP-Unlocks/static/js/2.bf99b85c.chunk.js",
+    "static/js/2.bf99b85c.chunk.js.map": "/LCP-Unlocks/static/js/2.bf99b85c.chunk.js.map",
+    "static/js/3.b87c6903.chunk.js": "/LCP-Unlocks/static/js/3.b87c6903.chunk.js",
+    "static/js/3.b87c6903.chunk.js.map": "/LCP-Unlocks/static/js/3.b87c6903.chunk.js.map",
     "index.html": "/LCP-Unlocks/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/LCP-Unlocks/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.07152b8f.chunk.js.LICENSE.txt": "/LCP-Unlocks/static/js/2.07152b8f.chunk.js.LICENSE.txt",
+    "static/css/main.27109282.chunk.css.map": "/LCP-Unlocks/static/css/main.27109282.chunk.css.map",
+    "static/js/2.bf99b85c.chunk.js.LICENSE.txt": "/LCP-Unlocks/static/js/2.bf99b85c.chunk.js.LICENSE.txt",
+    "static/media/crafting.ee80224b.svg": "/LCP-Unlocks/static/media/crafting.ee80224b.svg",
+    "static/media/key.2f16108f.svg": "/LCP-Unlocks/static/media/key.2f16108f.svg",
     "static/media/logo.6ce24c58.svg": "/LCP-Unlocks/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.88eadfd8.js",
-    "static/js/2.07152b8f.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.9f160037.chunk.js"
+    "static/js/runtime-main.ce7ef8bb.js",
+    "static/js/2.bf99b85c.chunk.js",
+    "static/css/main.27109282.chunk.css",
+    "static/js/main.7ef95083.chunk.js"
   ]
 }
