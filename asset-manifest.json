@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/LCP-Unlocks/static/css/main.25f0165f.chunk.css",
-    "main.js": "/LCP-Unlocks/static/js/main.cff3a701.chunk.js",
-    "main.js.map": "/LCP-Unlocks/static/js/main.cff3a701.chunk.js.map",
+    "main.js": "/LCP-Unlocks/static/js/main.c3876a5f.chunk.js",
+    "main.js.map": "/LCP-Unlocks/static/js/main.c3876a5f.chunk.js.map",
     "runtime-main.js": "/LCP-Unlocks/static/js/runtime-main.ce7ef8bb.js",
     "runtime-main.js.map": "/LCP-Unlocks/static/js/runtime-main.ce7ef8bb.js.map",
     "static/js/2.96d2573b.chunk.js": "/LCP-Unlocks/static/js/2.96d2573b.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.ce7ef8bb.js",
     "static/js/2.96d2573b.chunk.js",
     "static/css/main.25f0165f.chunk.css",
-    "static/js/main.cff3a701.chunk.js"
+    "static/js/main.c3876a5f.chunk.js"
   ]
 }
